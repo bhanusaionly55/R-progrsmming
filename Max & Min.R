@@ -1,0 +1,5 @@
+a = c(11, 92, 55, 31, 2, 5)
+print("Maximum:- ")
+print(max(a))
+print("Minmum:- ")
+print(min(a))
